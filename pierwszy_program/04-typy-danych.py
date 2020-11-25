@@ -4,9 +4,9 @@
 # name = "kuba"
 # name = "kuba's\n\nchannel"
 
-# name = """Kuba's
-#
-#
-# channel"""
+name = """Kuba's
+
+
+channel"""
 
 print(name)
